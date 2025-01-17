@@ -1,0 +1,17 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '05_squeri.blg'
+[80] biber:340> INFO - === Wed Sep 25, 2024, 09:03:47
+[94] Biber.pm:419> INFO - Reading '05_squeri.bcf'
+[178] Biber.pm:979> INFO - Found 71 citekeys in bib section 0
+[194] Biber.pm:4419> INFO - Processing section 0
+[205] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[230] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1009] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1576] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1576] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1576] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1576] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1628] bbl.pm:660> INFO - Writing '05_squeri.bbl' with encoding 'UTF-8'
+[1661] bbl.pm:763> INFO - Output to 05_squeri.bbl
+[1661] Biber.pm:131> WARN - legacy year field '1839/1861' in entry 'Littre1839' is not an integer - this will probably not sort properly.
+[1661] Biber.pm:133> INFO - WARNINGS: 1

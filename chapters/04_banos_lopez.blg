@@ -1,0 +1,18 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '04_banos_lopez.blg'
+[73] biber:340> INFO - === Wed Sep 25, 2024, 08:31:16
+[85] Biber.pm:419> INFO - Reading '04_banos_lopez.bcf'
+[155] Biber.pm:979> INFO - Found 48 citekeys in bib section 0
+[166] Biber.pm:4419> INFO - Processing section 0
+[176] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[196] bibtex.pm:1713> INFO - LaTeX decoding ...
+[899] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1295] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1295] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1295] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1295] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1333] bbl.pm:660> INFO - Writing '04_banos_lopez.bbl' with encoding 'UTF-8'
+[1357] bbl.pm:763> INFO - Output to 04_banos_lopez.bbl
+[1357] Biber.pm:131> WARN - legacy year field '1906/1976' in entry 'MHTMoultonTurner1906' is not an integer - this will probably not sort properly.
+[1358] Biber.pm:131> WARN - legacy year field '1926/1934' in entry 'Mayser1926' is not an integer - this will probably not sort properly.
+[1358] Biber.pm:133> INFO - WARNINGS: 2

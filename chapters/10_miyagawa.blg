@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '10_miyagawa.blg'
+[72] biber:340> INFO - === Wed Sep 25, 2024, 09:59:36
+[83] Biber.pm:419> INFO - Reading '10_miyagawa.bcf'
+[151] Biber.pm:979> INFO - Found 47 citekeys in bib section 0
+[163] Biber.pm:4419> INFO - Processing section 0
+[207] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[235] bibtex.pm:1713> INFO - LaTeX decoding ...
+[879] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1199] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1199] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1199] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1199] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1232] bbl.pm:660> INFO - Writing '10_miyagawa.bbl' with encoding 'UTF-8'
+[1251] bbl.pm:763> INFO - Output to 10_miyagawa.bbl

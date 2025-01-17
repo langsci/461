@@ -1,0 +1,15 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is '08_ryan.blg'
+[71] biber:340> INFO - === Wed Sep 25, 2024, 09:17:55
+[83] Biber.pm:419> INFO - Reading '08_ryan.bcf'
+[148] Biber.pm:979> INFO - Found 32 citekeys in bib section 0
+[160] Biber.pm:4419> INFO - Processing section 0
+[169] Biber.pm:4610> INFO - Looking for bibtex file '../localbibliography.bib' for section 0
+[189] bibtex.pm:1713> INFO - LaTeX decoding ...
+[836] bibtex.pm:1519> INFO - Found BibTeX data source '../localbibliography.bib'
+[1114] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1114] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1114] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1114] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1141] bbl.pm:660> INFO - Writing '08_ryan.bbl' with encoding 'UTF-8'
+[1157] bbl.pm:763> INFO - Output to 08_ryan.bbl

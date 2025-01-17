@@ -1,0 +1,1193 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{arndt_greek-english_2000}{book}{}
+      \name{author}{3}{}{%
+        {{hash=cba8f6b67e3f0cef00a9f5818ce215f5}{%
+           family={Arndt},
+           familyi={A\bibinitperiod},
+           given={William\bibnamedelima F},
+           giveni={W\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=f25cc7fe62469265ca3ba52b93941149}{%
+           family={Danker},
+           familyi={D\bibinitperiod},
+           given={Frederick\bibnamedelima W},
+           giveni={F\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=3225d3a4cb34076466d628fee290549b}{%
+           family={Bauer},
+           familyi={B\bibinitperiod},
+           given={Walter},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{4a80efa78ddbc8e30aaf0a8c575c8903}
+      \strng{fullhash}{f92b0b65eef17a70e8697ef24086af59}
+      \strng{bibnamehash}{f92b0b65eef17a70e8697ef24086af59}
+      \strng{authorbibnamehash}{f92b0b65eef17a70e8697ef24086af59}
+      \strng{authornamehash}{4a80efa78ddbc8e30aaf0a8c575c8903}
+      \strng{authorfullhash}{f92b0b65eef17a70e8697ef24086af59}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{A {{{Greek}}}-{{{English}}} lexicon of the {New} {Testament} and other early {{{Christian}}} literature}
+      \field{year}{2000}
+    \endentry
+    \entry{atkinson_theology_1944}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2e7442aebfc1273ffe55ac2d93c8b9d9}{%
+           family={Atkinson},
+           familyi={A\bibinitperiod},
+           given={Basil\bibnamedelimb Ferris\bibnamedelima Campbell},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Tyndale Press}%
+      }
+      \strng{namehash}{2e7442aebfc1273ffe55ac2d93c8b9d9}
+      \strng{fullhash}{2e7442aebfc1273ffe55ac2d93c8b9d9}
+      \strng{bibnamehash}{2e7442aebfc1273ffe55ac2d93c8b9d9}
+      \strng{authorbibnamehash}{2e7442aebfc1273ffe55ac2d93c8b9d9}
+      \strng{authornamehash}{2e7442aebfc1273ffe55ac2d93c8b9d9}
+      \strng{authorfullhash}{2e7442aebfc1273ffe55ac2d93c8b9d9}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Tyndale {New} {Testament} lecture}
+      \field{title}{The theology of prepositions}
+      \field{year}{1944}
+    \endentry
+    \entry{garcia2022translation}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=9088ff1bd56c266c280bfd08dcb55f05}{%
+           family={Baños},
+           familyi={B\bibinitperiod},
+           given={José\bibnamedelima Miguel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e566b53b7f38bd591eee8446bd79e838}{%
+           family={Jiménez\bibnamedelima López},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={María\bibnamedelima Dolores},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=9088ff1bd56c266c280bfd08dcb55f05}{%
+           family={Baños},
+           familyi={B\bibinitperiod},
+           given={José\bibnamedelima Miguel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e566b53b7f38bd591eee8446bd79e838}{%
+           family={Jiménez\bibnamedelima López},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={María\bibnamedelima Dolores},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3c56e31dddeb5ca5e1056193d6d9fda8}{%
+           family={Jiménez\bibnamedelima Martínez},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={María\bibnamedelima Isabel},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=429714fe9b70299a6e65404ace945b34}{%
+           family={Tur},
+           familyi={T\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Guillermo Escolar Editor}%
+      }
+      \strng{namehash}{7f9b2e9563200c27e3335487e11f12a9}
+      \strng{fullhash}{7f9b2e9563200c27e3335487e11f12a9}
+      \strng{bibnamehash}{7f9b2e9563200c27e3335487e11f12a9}
+      \strng{authorbibnamehash}{7f9b2e9563200c27e3335487e11f12a9}
+      \strng{authornamehash}{7f9b2e9563200c27e3335487e11f12a9}
+      \strng{authorfullhash}{7f9b2e9563200c27e3335487e11f12a9}
+      \strng{editorbibnamehash}{a201be2f1d0a92adac2c28ed58cf0184}
+      \strng{editornamehash}{7a229aa171093bd396cbc1bb6ecb5f22}
+      \strng{editorfullhash}{a201be2f1d0a92adac2c28ed58cf0184}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Collocations in theoretical and applied linguistics: {F}rom classical to {R}omance languages}
+      \field{title}{Translation as a mechanism for the creation of collocations ({{II}}): {{T}}he alternation operor/facio in the Vulgate}
+      \field{year}{2022}
+      \field{pages}{189\bibrangedash 234}
+      \range{pages}{46}
+    \endentry
+    \entry{black_linguistics_2020}{book}{}
+      \name{author}{2}{}{%
+        {{hash=34a65c44f1e73c8c793310dec5be14e8}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima Alan},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ee4f180476b8571604fb9ae8f825fd95}{%
+           family={Merkle},
+           familyi={M\bibinitperiod},
+           given={Benjamin\bibnamedelima L.},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI.}%
+      }
+      \list{publisher}{1}{%
+        {Baker Academic}%
+      }
+      \strng{namehash}{6e335a344bb264929a9f45475ca1912e}
+      \strng{fullhash}{6e335a344bb264929a9f45475ca1912e}
+      \strng{bibnamehash}{6e335a344bb264929a9f45475ca1912e}
+      \strng{authorbibnamehash}{6e335a344bb264929a9f45475ca1912e}
+      \strng{authornamehash}{6e335a344bb264929a9f45475ca1912e}
+      \strng{authorfullhash}{6e335a344bb264929a9f45475ca1912e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Linguistics and {New} {Testament} {{{Greek}}}: {{K}}ey Issues in the Current Debate}
+      \field{year}{2020}
+    \endentry
+    \entry{cappelle_taking_2022}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=00185ed29b4dc0024a2bbe383c1eb365}{%
+           family={Cappelle},
+           familyi={C\bibinitperiod},
+           given={Bert},
+           giveni={B\bibinitperiod}}}%
+        {{hash=924951732417710a30a8d9e357be259b}{%
+           family={Travassos},
+           familyi={T\bibinitperiod},
+           given={Pâmela},
+           giveni={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=37906e71206ed708bbf2b2631fa6e099}{%
+           family={Santos\bibnamedelimb Machado\bibnamedelima Vieira},
+           familyi={S\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Marcia},
+           giveni={M\bibinitperiod},
+           prefix={dos},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sao Paulo}%
+      }
+      \list{publisher}{1}{%
+        {Blucher Open Access}%
+      }
+      \strng{namehash}{54195e447d293bf06b590e8309d637cd}
+      \strng{fullhash}{54195e447d293bf06b590e8309d637cd}
+      \strng{bibnamehash}{54195e447d293bf06b590e8309d637cd}
+      \strng{authorbibnamehash}{54195e447d293bf06b590e8309d637cd}
+      \strng{authornamehash}{54195e447d293bf06b590e8309d637cd}
+      \strng{authorfullhash}{54195e447d293bf06b590e8309d637cd}
+      \strng{editorbibnamehash}{37906e71206ed708bbf2b2631fa6e099}
+      \strng{editornamehash}{37906e71206ed708bbf2b2631fa6e099}
+      \strng{editorfullhash}{37906e71206ed708bbf2b2631fa6e099}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Predicar: {{U}}ma rede de perspectivas metodológicas}
+      \field{month}{9}
+      \field{title}{Taking a look at the support verb construction {V} a look: {A} demonstration of methodology}
+      \field{year}{2022}
+      \field{pages}{57\bibrangedash 91}
+      \range{pages}{35}
+    \endentry
+    \entry{cock__1981}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1db2496590b22224facd0bfa464b9afa}{%
+           family={{Cock, Alwies}},
+           familyi={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{1db2496590b22224facd0bfa464b9afa}
+      \strng{fullhash}{1db2496590b22224facd0bfa464b9afa}
+      \strng{bibnamehash}{1db2496590b22224facd0bfa464b9afa}
+      \strng{authorbibnamehash}{1db2496590b22224facd0bfa464b9afa}
+      \strng{authornamehash}{1db2496590b22224facd0bfa464b9afa}
+      \strng{authorfullhash}{1db2496590b22224facd0bfa464b9afa}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mnemosyne}
+      \field{number}{1/2}
+      \field{title}{{ΠΟΙΕΙΣΘΑΙ}: Πoiein. {Sur} les critères déterminant le choix entre l'actif Πoiein et le moyen ΠΟΙΕΙΣΘΑΙ}
+      \field{volume}{34}
+      \field{year}{1981}
+      \field{pages}{1\bibrangedash 62}
+      \range{pages}{62}
+    \endentry
+    \entry{conybeare_classical_2021}{book}{}
+      \name{author}{2}{}{%
+        {{hash=7f15ff6b538530398387b0294ae46402}{%
+           family={Conybeare},
+           familyi={C\bibinitperiod},
+           given={Catherine},
+           giveni={C\bibinitperiod}}}%
+        {{hash=bba73b4d238ba01a71c14a8e02aba9d5}{%
+           family={Goldhill},
+           familyi={G\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{f3f76e3ea348bf55f301cf0c6f3aef9a}
+      \strng{fullhash}{f3f76e3ea348bf55f301cf0c6f3aef9a}
+      \strng{bibnamehash}{f3f76e3ea348bf55f301cf0c6f3aef9a}
+      \strng{authorbibnamehash}{f3f76e3ea348bf55f301cf0c6f3aef9a}
+      \strng{authornamehash}{f3f76e3ea348bf55f301cf0c6f3aef9a}
+      \strng{authorfullhash}{f3f76e3ea348bf55f301cf0c6f3aef9a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Cambridge core}
+      \field{title}{Classical philology and theology: {{{E}}}ntanglement, disavowal, and the godlike scholar}
+      \field{year}{2021}
+    \endentry
+    \entry{duff_elements_2008}{book}{}
+      \name{author}{2}{}{%
+        {{hash=c7095f49803010fff4b3b5c5c04d588e}{%
+           family={Duff},
+           familyi={D\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod}}}%
+        {{hash=dfe54d59230b1b6260ec24fac747a2d1}{%
+           family={Wenham},
+           familyi={W\bibinitperiod},
+           given={John\bibnamedelima William},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{d1119a04e2ff95208f6c26babffb6fca}
+      \strng{fullhash}{d1119a04e2ff95208f6c26babffb6fca}
+      \strng{bibnamehash}{d1119a04e2ff95208f6c26babffb6fca}
+      \strng{authorbibnamehash}{d1119a04e2ff95208f6c26babffb6fca}
+      \strng{authornamehash}{d1119a04e2ff95208f6c26babffb6fca}
+      \strng{authorfullhash}{d1119a04e2ff95208f6c26babffb6fca}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{Third edition, reprinted with corrections}
+      \field{title}{The elements of {New} {Testament} {{{Greek}}}}
+      \field{year}{2008}
+    \endentry
+    \entry{fendel_i_2023}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fd8fef3abfad6df3f9103138419b42c0}{%
+           family={Fendel},
+           familyi={F\bibinitperiod},
+           given={Victoria\bibnamedelima Beatrix},
+           giveni={V\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{fd8fef3abfad6df3f9103138419b42c0}
+      \strng{fullhash}{fd8fef3abfad6df3f9103138419b42c0}
+      \strng{bibnamehash}{fd8fef3abfad6df3f9103138419b42c0}
+      \strng{authorbibnamehash}{fd8fef3abfad6df3f9103138419b42c0}
+      \strng{authornamehash}{fd8fef3abfad6df3f9103138419b42c0}
+      \strng{authorfullhash}{fd8fef3abfad6df3f9103138419b42c0}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Greek Linguistics}
+      \field{title}{‘{I} haven’t got a clue!’: {A}ssessing negation in classical {{{Greek}}} support-verb constructions}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{pages}{139\bibrangedash 163}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.1163/15699846-02302004
+      \endverb
+    \endentry
+    \entry{georgakopoulou_standard_2009}{book}{}
+      \name{author}{2}{}{%
+        {{hash=77f697eea85a058b5fda6832b4ccbb6b}{%
+           family={Georgakopoulou},
+           familyi={G\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=75bb31554c4c09beacdfd316b91aec7c}{%
+           family={Silk},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Farnham}%
+      }
+      \list{publisher}{1}{%
+        {Ashgate}%
+      }
+      \strng{namehash}{6e38b1b52ee01389ec55ede96cda848b}
+      \strng{fullhash}{6e38b1b52ee01389ec55ede96cda848b}
+      \strng{bibnamehash}{6e38b1b52ee01389ec55ede96cda848b}
+      \strng{authorbibnamehash}{6e38b1b52ee01389ec55ede96cda848b}
+      \strng{authornamehash}{6e38b1b52ee01389ec55ede96cda848b}
+      \strng{authorfullhash}{6e38b1b52ee01389ec55ede96cda848b}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Publications of the {Centre} for {Hellenic} {Studies}, {King}'s {College} {London}}
+      \field{title}{{{Standard}} languages and language standards: {{{Greek}}}, past and present}
+      \field{year}{2009}
+    \endentry
+    \entry{gross_lexicon-grammar_1984}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=a019ee00b735d49652fbbc323b6b7911}{%
+           family={Gross},
+           familyi={G\bibinitperiod},
+           given={Maurice},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stanford, California, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{a019ee00b735d49652fbbc323b6b7911}
+      \strng{fullhash}{a019ee00b735d49652fbbc323b6b7911}
+      \strng{bibnamehash}{a019ee00b735d49652fbbc323b6b7911}
+      \strng{authorbibnamehash}{a019ee00b735d49652fbbc323b6b7911}
+      \strng{authornamehash}{a019ee00b735d49652fbbc323b6b7911}
+      \strng{authorfullhash}{a019ee00b735d49652fbbc323b6b7911}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{{ACL} '84/{COLING} '84}
+      \field{title}{Lexicon-Grammar and the Syntactic Analysis of {{{French}}}}
+      \field{year}{1984}
+      \field{pages}{275\bibrangedash 282}
+      \range{pages}{8}
+    \endentry
+    \entry{hart_new_2017}{book}{}
+      \name{author}{1}{}{%
+        {{hash=15a72d1320846b3a5132fc8d72648c6a}{%
+           family={Hart},
+           familyi={H\bibinitperiod},
+           given={David\bibnamedelima Bentley},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{15a72d1320846b3a5132fc8d72648c6a}
+      \strng{fullhash}{15a72d1320846b3a5132fc8d72648c6a}
+      \strng{bibnamehash}{15a72d1320846b3a5132fc8d72648c6a}
+      \strng{authorbibnamehash}{15a72d1320846b3a5132fc8d72648c6a}
+      \strng{authornamehash}{15a72d1320846b3a5132fc8d72648c6a}
+      \strng{authorfullhash}{15a72d1320846b3a5132fc8d72648c6a}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{New {Testament}}
+      \field{year}{2017}
+    \endentry
+    \entry{horrocks_greek_2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=23c41e5cda4c218280a9eaf4dee8648f}{%
+           family={Horrocks},
+           familyi={H\bibinitperiod},
+           given={Geoffrey},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chichester, West Sussex}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Blackwell}%
+      }
+      \strng{namehash}{23c41e5cda4c218280a9eaf4dee8648f}
+      \strng{fullhash}{23c41e5cda4c218280a9eaf4dee8648f}
+      \strng{bibnamehash}{23c41e5cda4c218280a9eaf4dee8648f}
+      \strng{authorbibnamehash}{23c41e5cda4c218280a9eaf4dee8648f}
+      \strng{authornamehash}{23c41e5cda4c218280a9eaf4dee8648f}
+      \strng{authorfullhash}{23c41e5cda4c218280a9eaf4dee8648f}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{{{Greek}}: {{A}} history of the language and its speakers}
+      \field{year}{2010}
+    \endentry
+    \entry{jimenez_lopez_support_2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e566b53b7f38bd591eee8446bd79e838}{%
+           family={Jiménez\bibnamedelima López},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={María\bibnamedelima Dolores},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{fullhash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{bibnamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authorbibnamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authornamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authorfullhash}{e566b53b7f38bd591eee8446bd79e838}
+      \field{extraname}{1}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Archivio Glottologico Italiano}
+      \field{number}{2}
+      \field{title}{On support verb constructions in {Ancient} {{{Greek}}}}
+      \field{volume}{101}
+      \field{year}{2016}
+      \field{pages}{180\bibrangedash 204}
+      \range{pages}{25}
+    \endentry
+    \entry{jimenez_lopez_colocaciones_2017}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e566b53b7f38bd591eee8446bd79e838}{%
+           family={Jiménez\bibnamedelima López},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={María\bibnamedelima Dolores},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{fullhash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{bibnamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authorbibnamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authornamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authorfullhash}{e566b53b7f38bd591eee8446bd79e838}
+      \field{extraname}{2}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Habis}
+      \field{title}{Las colocaciones verbonominales con συμβούλιον en el {Nuevo} {Testamento}: {{{U}}}n ejemplo de calco e interferencia lingüística}
+      \field{volume}{48}
+      \field{year}{2017}
+      \field{pages}{219\bibrangedash 239}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.12795/Habis.2017.i48.15
+      \endverb
+    \endentry
+    \entry{jimenez_lopez_colocaciones_2018}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e566b53b7f38bd591eee8446bd79e838}{%
+           family={Jiménez\bibnamedelima López},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={María\bibnamedelima Dolores},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=7cec33dd0e5c924277baafedaa819979}{%
+           family={Spevak},
+           familyi={S\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=400d7beb39dd313a4b3ed4549dcde812}{%
+           family={Bodelot},
+           familyi={B\bibinitperiod},
+           given={Colette},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Clermont-Farrand}%
+      }
+      \list{publisher}{1}{%
+        {Presses Universitaires Blaise Pascal}%
+      }
+      \strng{namehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{fullhash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{bibnamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authorbibnamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authornamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authorfullhash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{editorbibnamehash}{7173858e2a17d70895520b0d094ef438}
+      \strng{editornamehash}{7173858e2a17d70895520b0d094ef438}
+      \strng{editorfullhash}{7173858e2a17d70895520b0d094ef438}
+      \field{extraname}{3}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Les constructions à verbe support en latin}
+      \field{number}{7}
+      \field{series}{Cahier Du Laboratoire de Recherche Sur La Langage}
+      \field{title}{Colocaciones verbo-nominales en el {Nuevo} {Testamento}: {{A}}proximacion a una tipologia de errores}
+      \field{year}{2018}
+      \field{pages}{95\bibrangedash 116}
+      \range{pages}{22}
+    \endentry
+    \entry{jimenez_lopez__2021}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e566b53b7f38bd591eee8446bd79e838}{%
+           family={Jiménez\bibnamedelima López},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={María\bibnamedelima Dolores},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=fb5130ad3630af0d80c4771e7a933071}{%
+           family={Giannakis},
+           familyi={G\bibinitperiod},
+           given={Georgios},
+           giveni={G\bibinitperiod}}}%
+        {{hash=fdeacb52c19981e9cef24d329ef49373}{%
+           family={Conti},
+           familyi={C\bibinitperiod},
+           given={Luz},
+           giveni={L\bibinitperiod}}}%
+        {{hash=6890ddb797c1a4c522f689dd2eaf1bee}{%
+           family={Villa},
+           familyi={V\bibinitperiod},
+           given={Jesús},
+           giveni={J\bibinitperiod},
+           prefix={de\bibnamedelima la},
+           prefixi={d\bibinitperiod\bibinitdelim l\bibinitperiod}}}%
+        {{hash=f29cd24566262c451e13eff753e45e9a}{%
+           family={Fornieles},
+           familyi={F\bibinitperiod},
+           given={Raquel},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlín \& Boston}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{fullhash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{bibnamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authorbibnamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authornamehash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{authorfullhash}{e566b53b7f38bd591eee8446bd79e838}
+      \strng{editorbibnamehash}{fe36fd4899b11e2f8bf1a4954f8ab572}
+      \strng{editornamehash}{75bce03593825b63ba13c66e73a3bea1}
+      \strng{editorfullhash}{fe36fd4899b11e2f8bf1a4954f8ab572}
+      \field{extraname}{4}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Synchrony and Diachrony of Ancient {{{Greek}}}. {Language}, Linguistics and Philology}
+      \field{series}{Trends in {Classics} - {Supplementary} {Volumes}}
+      \field{title}{Γίγνομαι as the Lexical Passive of the Support Verb ποιέω in Ancient {{{Greek}}}}
+      \field{year}{2021}
+      \field{pages}{227\bibrangedash 240}
+      \range{pages}{14}
+    \endentry
+    \entry{kamber_funktionsverbgefuge_2008}{book}{}
+      \name{author}{1}{}{%
+        {{hash=3b6f30310af0ae6c820902497bac91a4}{%
+           family={Kamber},
+           familyi={K\bibinitperiod},
+           given={Alain},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tübingen}%
+      }
+      \list{publisher}{1}{%
+        {Max Niemeyer}%
+      }
+      \strng{namehash}{3b6f30310af0ae6c820902497bac91a4}
+      \strng{fullhash}{3b6f30310af0ae6c820902497bac91a4}
+      \strng{bibnamehash}{3b6f30310af0ae6c820902497bac91a4}
+      \strng{authorbibnamehash}{3b6f30310af0ae6c820902497bac91a4}
+      \strng{authornamehash}{3b6f30310af0ae6c820902497bac91a4}
+      \strng{authorfullhash}{3b6f30310af0ae6c820902497bac91a4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Funktionsverbgefüge - empirisch: {{{{E}}}}ine korpusbasierte {{Untersuchung}} zu den nominalen Prädikaten des {{Deutschen}}}
+      \field{year}{2008}
+    \endentry
+    \entry{langer_formal_2005}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0a1756bb7d0933e22aa30ba005adb8ad}{%
+           family={Langer},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=0a1756bb7d0933e22aa30ba005adb8ad}{%
+           family={Langer},
+           familyi={L\bibinitperiod},
+           given={Stefan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0e5e012fb1f42234ad3b6a2ab0035e47}{%
+           family={Schnorbusch},
+           familyi={S\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tübingen}%
+      }
+      \list{publisher}{1}{%
+        {Gunter Narr}%
+      }
+      \strng{namehash}{0a1756bb7d0933e22aa30ba005adb8ad}
+      \strng{fullhash}{0a1756bb7d0933e22aa30ba005adb8ad}
+      \strng{bibnamehash}{0a1756bb7d0933e22aa30ba005adb8ad}
+      \strng{authorbibnamehash}{0a1756bb7d0933e22aa30ba005adb8ad}
+      \strng{authornamehash}{0a1756bb7d0933e22aa30ba005adb8ad}
+      \strng{authorfullhash}{0a1756bb7d0933e22aa30ba005adb8ad}
+      \strng{editorbibnamehash}{9fadb8ec0642816c7dba2c5d27777a10}
+      \strng{editornamehash}{9fadb8ec0642816c7dba2c5d27777a10}
+      \strng{editorfullhash}{9fadb8ec0642816c7dba2c5d27777a10}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{{Semantik}} im {{{Lexikon}}}}
+      \field{title}{A formal specification of support verb constructions}
+      \field{year}{2005}
+      \field{pages}{179\bibrangedash 202}
+      \range{pages}{24}
+    \endentry
+    \entry{liddell_greek-english_1996}{book}{}
+      \name{author}{3}{}{%
+        {{hash=a8105efb3ab8c27c2b958c01b4477996}{%
+           family={Liddell},
+           familyi={L\bibinitperiod},
+           given={Henry\bibnamedelima George},
+           giveni={H\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=03950826d69fe6afcf2bf1bb1d6d94c0}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=e31a655ef8b2ed553c9fd9595cd7f7cd}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Henry\bibnamedelima Stuart},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Clarendon Press}%
+      }
+      \strng{namehash}{59248e8e227a8af1a7de358b296f9900}
+      \strng{fullhash}{ea433498b6b79246acde5ac8cdae1954}
+      \strng{bibnamehash}{ea433498b6b79246acde5ac8cdae1954}
+      \strng{authorbibnamehash}{ea433498b6b79246acde5ac8cdae1954}
+      \strng{authornamehash}{59248e8e227a8af1a7de358b296f9900}
+      \strng{authorfullhash}{ea433498b6b79246acde5ac8cdae1954}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{9th ed., rev. and augm. throughout}
+      \field{title}{A {{{Greek}}}-{{{English}}} lexicon}
+      \field{year}{1996}
+    \endentry
+    \entry{long_language_1968}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9ae1adf2368b494ac589dd8b2d830e00}{%
+           family={Long},
+           familyi={L\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Athlone Press}%
+      }
+      \strng{namehash}{9ae1adf2368b494ac589dd8b2d830e00}
+      \strng{fullhash}{9ae1adf2368b494ac589dd8b2d830e00}
+      \strng{bibnamehash}{9ae1adf2368b494ac589dd8b2d830e00}
+      \strng{authorbibnamehash}{9ae1adf2368b494ac589dd8b2d830e00}
+      \strng{authornamehash}{9ae1adf2368b494ac589dd8b2d830e00}
+      \strng{authorfullhash}{9ae1adf2368b494ac589dd8b2d830e00}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{University of {London} classical studies}
+      \field{title}{Language and thought in {Sophocles}: {{A}} study of abstract nouns and poetic technique}
+      \field{year}{1968}
+    \endentry
+    \entry{muraoka_greek-english_2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=5c92fdee343e60988c4bb14f5d3b10ea}{%
+           family={Muraoka},
+           familyi={M\bibinitperiod},
+           given={Takamitsu},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Louvain}%
+      }
+      \list{publisher}{1}{%
+        {Peeters}%
+      }
+      \strng{namehash}{5c92fdee343e60988c4bb14f5d3b10ea}
+      \strng{fullhash}{5c92fdee343e60988c4bb14f5d3b10ea}
+      \strng{bibnamehash}{5c92fdee343e60988c4bb14f5d3b10ea}
+      \strng{authorbibnamehash}{5c92fdee343e60988c4bb14f5d3b10ea}
+      \strng{authornamehash}{5c92fdee343e60988c4bb14f5d3b10ea}
+      \strng{authorfullhash}{5c92fdee343e60988c4bb14f5d3b10ea}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A {{{Greek}}}-{{{English}}} lexicon of the {Septuagint}}
+      \field{year}{2009}
+    \endentry
+    \entry{nagy_t_full-coverage_2013}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=ed4e43e0999c0fe93be55d20857e14dd}{%
+           family={Nagy},
+           familyi={N\bibinitperiod},
+           given={István},
+           giveni={I\bibinitperiod}}}%
+        {{hash=dc093bfd3cfeb5d1736119296c725eaa}{%
+           family={Vincze},
+           familyi={V\bibinitperiod},
+           given={Veronika},
+           giveni={V\bibinitperiod}}}%
+        {{hash=f8aad539598be2c9b45b5b846ef8c779}{%
+           family={Farkas},
+           familyi={F\bibinitperiod},
+           given={Richárd},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2d096fa54cad744925e2f17d3055717}
+      \strng{fullhash}{4dd22c3915da8fad1bc63cc26227dada}
+      \strng{bibnamehash}{4dd22c3915da8fad1bc63cc26227dada}
+      \strng{authorbibnamehash}{4dd22c3915da8fad1bc63cc26227dada}
+      \strng{authornamehash}{a2d096fa54cad744925e2f17d3055717}
+      \strng{authorfullhash}{4dd22c3915da8fad1bc63cc26227dada}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{{International Joint Conference on Natural Language Processing, {{{Nagoya}}}, {{{Japan}}}, 14-18 October 2013}}}
+      \field{title}{Full-coverage identification of {{{English}}} light verb constructions}
+      \field{year}{2013}
+      \field{pages}{329\bibrangedash 337}
+      \range{pages}{9}
+    \endentry
+    \entry{ryan_teaching_2024}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=6112d410d21825ba34d7003e98326193}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={Cressida},
+           giveni={C\bibinitperiod}}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=d6dfd0895764b9dc884e71c56adfb2f7}{%
+           family={Monaco},
+           familyi={M\bibinitperiod},
+           given={Chiara},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b2917df9b8cbbd24ac95bfddbb019884}{%
+           family={Machado},
+           familyi={M\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0b9d963a8c45bf2e88bb2107fc88b456}{%
+           family={Bozia},
+           familyi={B\bibinitperiod},
+           given={Eleni},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Leiden}%
+      }
+      \list{publisher}{1}{%
+        {Brill}%
+      }
+      \strng{namehash}{6112d410d21825ba34d7003e98326193}
+      \strng{fullhash}{6112d410d21825ba34d7003e98326193}
+      \strng{bibnamehash}{6112d410d21825ba34d7003e98326193}
+      \strng{authorbibnamehash}{6112d410d21825ba34d7003e98326193}
+      \strng{authornamehash}{6112d410d21825ba34d7003e98326193}
+      \strng{authorfullhash}{6112d410d21825ba34d7003e98326193}
+      \strng{editorbibnamehash}{b007350b15364d2229153c75495a668b}
+      \strng{editornamehash}{614342d6071b98a2b096ded4bcf2eb12}
+      \strng{editorfullhash}{b007350b15364d2229153c75495a668b}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Beyond the Standards: {Attic}, Koine, and {Atticism}}
+      \field{series}{Anchoring Innovation}
+      \field{title}{Teaching {New} {Testament} {{{Greek}}}: {{W}}hat, and How?}
+      \field{year}{2024}
+    \endentry
+    \entry{ryan_translating_2025}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6112d410d21825ba34d7003e98326193}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={Cressida},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Amsterdam University Press}%
+      }
+      \strng{namehash}{6112d410d21825ba34d7003e98326193}
+      \strng{fullhash}{6112d410d21825ba34d7003e98326193}
+      \strng{bibnamehash}{6112d410d21825ba34d7003e98326193}
+      \strng{authorbibnamehash}{6112d410d21825ba34d7003e98326193}
+      \strng{authornamehash}{6112d410d21825ba34d7003e98326193}
+      \strng{authorfullhash}{6112d410d21825ba34d7003e98326193}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{series}{Languages and culture in history}
+      \field{title}{Translating the {New} {Testament} in Reformation {{{Germany}}}: {{R}}eception, Methods, {Luther}'s {{{Latin}}} and {{{Greek}}} Tragedy}
+      \field{year}{2025}
+    \endentry
+    \entry{salkoff_automatic_1990}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=209045d9493ebdb94c1ccc235159f3ba}{%
+           family={Salkoff},
+           familyi={S\bibinitperiod},
+           given={Morris},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{209045d9493ebdb94c1ccc235159f3ba}
+      \strng{fullhash}{209045d9493ebdb94c1ccc235159f3ba}
+      \strng{bibnamehash}{209045d9493ebdb94c1ccc235159f3ba}
+      \strng{authorbibnamehash}{209045d9493ebdb94c1ccc235159f3ba}
+      \strng{authornamehash}{209045d9493ebdb94c1ccc235159f3ba}
+      \strng{authorfullhash}{209045d9493ebdb94c1ccc235159f3ba}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{{{COLING}}} 1990 {Volume} 3: {{P}}apers presented to the 13th {International} {Conference} on {Computational} {Linguistics}}
+      \field{title}{Automatic translation of support verb constructions}
+      \field{year}{1990}
+    \endentry
+    \entry{soon_disability_2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=2c56696c6727f06b454b3ac616e56b13}{%
+           family={Soon},
+           familyi={S\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{2c56696c6727f06b454b3ac616e56b13}
+      \strng{fullhash}{2c56696c6727f06b454b3ac616e56b13}
+      \strng{bibnamehash}{2c56696c6727f06b454b3ac616e56b13}
+      \strng{authorbibnamehash}{2c56696c6727f06b454b3ac616e56b13}
+      \strng{authornamehash}{2c56696c6727f06b454b3ac616e56b13}
+      \strng{authorfullhash}{2c56696c6727f06b454b3ac616e56b13}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of diability and religion}
+      \field{title}{Disability and {New} {Testament} Studies: {{R}}eflections, Trajectories, and Possibilities}
+      \field{volume}{25}
+      \field{year}{2021}
+      \field{pages}{374\bibrangedash 387}
+      \range{pages}{14}
+    \endentry
+    \entry{soon_disabled_2023}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2c56696c6727f06b454b3ac616e56b13}{%
+           family={Soon},
+           familyi={S\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{2c56696c6727f06b454b3ac616e56b13}
+      \strng{fullhash}{2c56696c6727f06b454b3ac616e56b13}
+      \strng{bibnamehash}{2c56696c6727f06b454b3ac616e56b13}
+      \strng{authorbibnamehash}{2c56696c6727f06b454b3ac616e56b13}
+      \strng{authornamehash}{2c56696c6727f06b454b3ac616e56b13}
+      \strng{authorfullhash}{2c56696c6727f06b454b3ac616e56b13}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Disabled Apostle: {{I}}mpairment and Disability in the Letters of {Paul}}
+      \field{year}{2023}
+    \endentry
+    \entry{stroik_light_2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f97fe6f643d9a716ed3d7490797de4e6}{%
+           family={Stroik},
+           familyi={S\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Publisher: The MIT Press}%
+      }
+      \strng{namehash}{f97fe6f643d9a716ed3d7490797de4e6}
+      \strng{fullhash}{f97fe6f643d9a716ed3d7490797de4e6}
+      \strng{bibnamehash}{f97fe6f643d9a716ed3d7490797de4e6}
+      \strng{authorbibnamehash}{f97fe6f643d9a716ed3d7490797de4e6}
+      \strng{authornamehash}{f97fe6f643d9a716ed3d7490797de4e6}
+      \strng{authorfullhash}{f97fe6f643d9a716ed3d7490797de4e6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Linguistic Inquiry}
+      \field{number}{2}
+      \field{title}{On the Light Verb Hypothesis}
+      \field{volume}{32}
+      \field{year}{2001}
+      \field{pages}{362\bibrangedash 369}
+      \range{pages}{8}
+    \endentry
+    \entry{tronci_aorist_2018}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fc17e021b4fe91928d7aa18820ee9712}{%
+           family={Tronci},
+           familyi={T\bibinitperiod},
+           given={Liana},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc17e021b4fe91928d7aa18820ee9712}
+      \strng{fullhash}{fc17e021b4fe91928d7aa18820ee9712}
+      \strng{bibnamehash}{fc17e021b4fe91928d7aa18820ee9712}
+      \strng{authorbibnamehash}{fc17e021b4fe91928d7aa18820ee9712}
+      \strng{authornamehash}{fc17e021b4fe91928d7aa18820ee9712}
+      \strng{authorfullhash}{fc17e021b4fe91928d7aa18820ee9712}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Greek Linguistics}
+      \field{number}{2}
+      \field{title}{Aorist voice patterns in the diachrony of {{{Greek}}}: {{T}}he {New} {Testament} as a sample of Koine}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{pages}{241\bibrangedash 280}
+      \range{pages}{40}
+    \endentry
+    \entry{vives_cuesta_support-verb_2022}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=bfefa2ee70c32401484069d08927b502}{%
+           family={Vives\bibnamedelima Cuesta},
+           familyi={V\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Alfonso},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6b2cc5aba4836d627663ce7517d69348}{%
+           family={Madrigal\bibnamedelima Acero},
+           familyi={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Lucía},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=9088ff1bd56c266c280bfd08dcb55f05}{%
+           family={Baños},
+           familyi={B\bibinitperiod},
+           given={José\bibnamedelima Miguel},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e566b53b7f38bd591eee8446bd79e838}{%
+           family={Jiménez\bibnamedelima López},
+           familyi={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={María\bibnamedelima Dolores},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=3c56e31dddeb5ca5e1056193d6d9fda8}{%
+           family={Jiménez\bibnamedelima Martínez},
+           familyi={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={María\bibnamedelima Isabel},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=429714fe9b70299a6e65404ace945b34}{%
+           family={Tur},
+           familyi={T\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Ediciones Clásicas}%
+      }
+      \strng{namehash}{80de12b17e0192286da7baf2b74edde2}
+      \strng{fullhash}{80de12b17e0192286da7baf2b74edde2}
+      \strng{bibnamehash}{80de12b17e0192286da7baf2b74edde2}
+      \strng{authorbibnamehash}{80de12b17e0192286da7baf2b74edde2}
+      \strng{authornamehash}{80de12b17e0192286da7baf2b74edde2}
+      \strng{authorfullhash}{80de12b17e0192286da7baf2b74edde2}
+      \strng{editorbibnamehash}{a201be2f1d0a92adac2c28ed58cf0184}
+      \strng{editornamehash}{7a229aa171093bd396cbc1bb6ecb5f22}
+      \strng{editorfullhash}{a201be2f1d0a92adac2c28ed58cf0184}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Collocations in theoretical and applied linguistics: {F}rom classical to {{{Romance}}} languages}
+      \field{title}{Support verb constructions in Post-Classical {{{Greek}}} and sociolinguistics: {A} diachronic study of εὐχὴν ποιέω as a level-of-speech marker}
+      \field{year}{2022}
+      \field{pages}{305\bibrangedash 334}
+      \range{pages}{30}
+    \endentry
+    \entry{wallace_greek_1996}{book}{}
+      \name{author}{1}{}{%
+        {{hash=4467c5f5d5e0247646919a3aa4b1bca3}{%
+           family={Wallace},
+           familyi={W\bibinitperiod},
+           given={Daniel\bibnamedelima B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Grand Rapids, MI}%
+      }
+      \list{publisher}{1}{%
+        {Zondervan}%
+      }
+      \strng{namehash}{4467c5f5d5e0247646919a3aa4b1bca3}
+      \strng{fullhash}{4467c5f5d5e0247646919a3aa4b1bca3}
+      \strng{bibnamehash}{4467c5f5d5e0247646919a3aa4b1bca3}
+      \strng{authorbibnamehash}{4467c5f5d5e0247646919a3aa4b1bca3}
+      \strng{authornamehash}{4467c5f5d5e0247646919a3aa4b1bca3}
+      \strng{authorfullhash}{4467c5f5d5e0247646919a3aa4b1bca3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{{{{Greek}}}} grammar beyond the basics: {{A}}n exegetical syntax of the {New} {Testament} with scripture, subject, and {{{{{Greek}}}}} word indexes}
+      \field{year}{1996}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
